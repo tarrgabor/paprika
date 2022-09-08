@@ -1,0 +1,25 @@
+body{
+    background-color: papayawhip;
+    color: saddlebrown;
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.piros{
+    background-color: red;
+}
+
+.zold{
+    background-color: greenyellow;
+}
+
+.sarga{
+    background-color: yellow;
+}
+
+.lila{
+    background-color: #D27AF3;
+}
