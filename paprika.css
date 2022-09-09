@@ -6,10 +6,15 @@ body{
 table, td, th{
     border: 1px solid black;
     border-collapse: collapse;
+    width: 300px;
+}
+
+th{
+    width: 120px;
 }
 
 .piros{
-    background-color: red;
+    background-color: #FF6C6C;
 }
 
 .zold{
@@ -22,4 +27,22 @@ table, td, th{
 
 .lila{
     background-color: #D27AF3;
+}
+
+.bal{
+    float: left;
+}
+
+img{
+    height: 100px;
+    width: 900px;
+}
+
+ul{
+    border: 1px solid lightblue;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+
 }
