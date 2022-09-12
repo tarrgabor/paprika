@@ -9,6 +9,10 @@ table, td, th{
     width: 300px;
 }
 
+table{
+    float: right;
+}
+
 th{
     width: 120px;
 }
@@ -29,20 +33,27 @@ th{
     background-color: #D27AF3;
 }
 
-.bal{
-    float: left;
-}
-
 img{
     height: 100px;
     width: 900px;
 }
 
-ul{
+li{
     border: 1px solid lightblue;
     width: 200px;
-    height: 40px;
+    height: 60px;
     text-align: center;
     background-color: white;
+}
+ul{
+    list-style: url(chili-pepper-icon.gif);
+}
+menu{
+    float: left;
+}
 
+header{
+    height: 120px;
+    background-image: url(MicrosoftTeams-image\ \(3\).png);
+    background-size: cover;
 }
