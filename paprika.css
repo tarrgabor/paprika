@@ -1,6 +1,8 @@
 body{
     background-color: papayawhip;
     color: saddlebrown;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 table, td, th{
@@ -10,7 +12,7 @@ table, td, th{
 }
 
 table{
-    float: right;
+    margin: auto;
 }
 
 th{
@@ -50,10 +52,15 @@ ul{
 }
 menu{
     float: left;
+    margin-right: 90px;
 }
 
 header{
     height: 120px;
     background-image: url(MicrosoftTeams-image\ \(3\).png);
     background-size: cover;
+}
+
+main{
+    margin-right: 90px;
 }
