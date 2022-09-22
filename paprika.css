@@ -5,10 +5,14 @@ body{
     margin-right: 90px;
 }
 
+table{
+    width: 300px;
+}
+
 table, td, th{
     border: 1px solid black;
     border-collapse: collapse;
-    width: 300px;
+    
 }
 
 table{
@@ -17,6 +21,7 @@ table{
 
 th{
     width: 120px;
+    height: 40px;
 }
 
 .piros{
@@ -58,9 +63,10 @@ menu{
 header{
     height: 120px;
     background-image: url(MicrosoftTeams-image\ \(3\).png);
-    background-size: cover;
+    background-size:cover;
 }
 
 main{
-    margin-right: 90px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
