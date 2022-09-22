@@ -44,7 +44,7 @@ li{
     border: 1px solid lightblue;
     width: 200px;
     height: 60px;
-    text-align: left;
+    text-align: center;
     background-color: white;
 }
 ul{
@@ -63,8 +63,4 @@ header{
 
 main{
     margin-right: 90px;
-}
-
-.jobbra{
-    float: right;
 }
